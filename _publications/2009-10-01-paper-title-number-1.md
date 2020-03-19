@@ -1,6 +1,6 @@
 ---
 title: "Cross-dialectal speech processing"
-collection: publications
+collection: workshop abstracts
 permalink: /publication/2019-Cross-dialectal-speech-processing
 excerpt: 'This is an accepted abstract at the Interspeech 2019 workshop on Pluricentric Languages in Speech Technology. This work investigates the use of transfer learning for training speech recognition software to detect regional UK dialects, with a specific focus on the Liverpudlian dialect'
 date: 2009-10-01
