@@ -11,31 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Computer Science, The Univeristy of Hull, 2018
+* MSc. in Data Science, The University of Edinburgh, 2019
+* Ph.D in Interactive Artificial Intelligence, The University of Bristol, Present
+
+### Research Experience
+-------
+* PhD Summer Project (Ongoing): ’The Blind Camera: Perception of Object Interaction Events from Audio Sensors’
+  * Supervisors: Dima Damen, Vangelis Kazakos
+  * I am researcing how to perform egocentric actionrecognition entirely from audio signals, in the context of the home-kitchen setting
+* MSc Dissertation: ’Finding the Right Teacher for a Difficult Student’
+  * Supervisors: Amos Storkey, Elliot J. Crowley
+  * Investigated the use of Neural Architecture Search modelsfor network distillation, where a smaller student network approximates the learnt representation of a larger teacher network. Developed a novel approach to creating a teacher network for distillation using Fisher information to scale up a NAS model.
+* BSc Dissertation: ’Data Mining Over Cancer Data with Decision Support Tool’
+  * I researched the use of clinical decision support systems for cancer diagnosis,ultimately developing a decision support tool to assist in bowel cancer diagnosis.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Assistant
+  * STFC Hartree Centre
+  * Supervisor: Andrew Gargett
+  * I researched applications of transfer learning for deep end-to-end speech recognition systems for use in assisted living environments. I used transfer learning to train RNN’s to recognise regional UK dialects.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
