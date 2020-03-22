@@ -1,5 +1,3 @@
-Full CV available [here](https://github.com/DWhettam/dwhettam.github.io/blob/master/files/Curriculum_Vitae.pdf)
-
 ---
 layout: archive
 title: "Summarised CV"
@@ -10,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Full CV available [here](https://github.com/DWhettam/dwhettam.github.io/blob/master/files/Curriculum_Vitae.pdf)
 
 Education
 ======
