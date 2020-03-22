@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV available [here](https://github.com/DWhettam/dwhettam.github.io/blob/master/files/Curriculum_Vitae.pdf)
+Full CV available [here](files/Curriculum_Vitae.pdf) 
 
 Education
 ======
@@ -37,22 +37,19 @@ Work experience
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Workshop Abstracts
+* "Cross-dialect speech processing", Whettam D., Gargett A., and Dethlefs N. (2019), In Satellite Workshop at Interspeech 2019: Pluricentric Languages in Speech Technology
+
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* "Cross-dialect speech processing" at Satellite Workshop at Interspeech 2019: Pluricentric Languages in Speech Technology
+* "Finding the Right Teacher for a Difficult Student" , 2020, at Siri, Apple, Cheltenham
+  * Supplementary material: [Slides](files/FisherDistillationAppleTalk.pdf) 
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Laboratory Demonstrator, The Univeristy of Hull
+  * Artificial Intelligence, Advanced Programming, Networking and User Interface Design, Programming 1
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
