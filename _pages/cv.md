@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV available [here](files/Curriculum_Vitae.pdf) 
+Full CV available [here](../files/Curriculum_Vitae.pdf) 
 
 Education
 ======
@@ -45,11 +45,11 @@ Talks
 ======
 * "Cross-dialect speech processing" at Satellite Workshop at Interspeech 2019: Pluricentric Languages in Speech Technology
 * "Finding the Right Teacher for a Difficult Student" , 2020, at Siri, Apple, Cheltenham
-  * Supplementary material: [Slides](files/FisherDistillationAppleTalk.pdf) 
+  * Supplementary material: [Slides](../files/FisherDistillationAppleTalk.pdf) 
 
   
 Teaching
 ======
-* Laboratory Demonstrator, The Univeristy of Hull
+* Laboratory Demonstrator, The Univeristy of Hull (2016-2018)
   * Artificial Intelligence, Advanced Programming, Networking and User Interface Design, Programming 1
   
