@@ -1,13 +1,3 @@
----
-layout: archive
-title: "Summarised CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
 
 Full CV available [here](https://github.com/DWhettam/dwhettam.github.io/blob/master/files/Curriculum_Vitae.pdf)
 
