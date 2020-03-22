@@ -1,6 +1,8 @@
+Full CV available [here](https://github.com/DWhettam/dwhettam.github.io/blob/master/files/Curriculum_Vitae.pdf)
+
 ---
 layout: archive
-title: "CV"
+title: "Summarised CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
