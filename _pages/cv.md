@@ -26,6 +26,7 @@ Education
   * Supervisors: Amos Storkey, Elliot J. Crowley
   * Investigated the use of Neural Architecture Search modelsfor network distillation, where a smaller student network approximates the learnt representation of a larger teacher network. Developed a novel approach to creating a teacher network for distillation using Fisher information to scale up a NAS model. I presented this work to some of the researchers in the Siri team at Apple.
 * BSc Dissertation: ’Data Mining Over Cancer Data with Decision Support Tool’
+  * Supervisors: Darryl Davis
   * I researched the use of clinical decision support systems for cancer diagnosis,ultimately developing a decision support tool to assist in bowel cancer diagnosis.
 
 Work experience
