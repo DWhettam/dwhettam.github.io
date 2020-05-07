@@ -21,7 +21,7 @@ Education
 -------
 * PhD Summer Project (Ongoing): ’The Blind Camera: Perception of Object Interaction Events from Audio Sensors’
   * Supervisors: Dima Damen, Vangelis Kazakos
-  * I am researcing how to perform egocentric actionrecognition entirely from audio signals, in the context of the home-kitchen setting
+  * I am researching how to perform egocentric action recognition entirely from audio signals, in the context of the home-kitchen setting
 * MSc Dissertation: ’Finding the Right Teacher for a Difficult Student’
   * Supervisors: Amos Storkey, Elliot J. Crowley
   * Investigated the use of Neural Architecture Search modelsfor network distillation, where a smaller student network approximates the learnt representation of a larger teacher network. Developed a novel approach to creating a teacher network for distillation using Fisher information to scale up a NAS model. I presented this work to some of the researchers in the Siri team at Apple.
