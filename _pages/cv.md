@@ -13,9 +13,9 @@ Full CV available [here](../files/Curriculum_Vitae.pdf)
 
 Education
 ======
-* BSc. in Computer Science, The Univeristy of Hull, 2018
-* MSc. in Data Science, The University of Edinburgh, 2019
 * Ph.D in Interactive Artificial Intelligence, The University of Bristol, Present
+* MSc. in Data Science, The University of Edinburgh, 2019
+* BSc. in Computer Science, The Univeristy of Hull, 2018
 
 ### Research Experience
 -------
