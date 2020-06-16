@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the UKRI Centre for Doctoral Training in Interactive Artificial Intelligence at The University of Bristol. My research interests include Deep Learning, Machine Learning, Computer Vision, and Signal Procesing (audio, speech). I'm particularly interested in Deep Learning for audio-visual data. My supervisor is [Dr Dima Damen](http://people.cs.bris.ac.uk/~damen/).
+I am a PhD student at the [UKRI Centre for Doctoral Training in Interactive Artificial Intelligence at The University of Bristol](http://www.bristol.ac.uk/study/postgraduate/2020/doctoral/phd-interactive-artificial-intelligence/). My research interests include Deep Learning, Machine Learning, Computer Vision, and Signal Procesing (audio, speech). I'm particularly interested in Deep Learning for audio-visual data. My supervisor is [Dr Dima Damen](http://people.cs.bris.ac.uk/~damen/).
 
 Previously I was at The University of Edinburgh where I completed my MSc in Data Science under [Professor Amos Storkey](https://homepages.inf.ed.ac.uk/amos/). I completed my BSc in Computer Science at The University of Hull, and was supervised by [Dr Darryl Davis](https://www.hull.ac.uk/staff-directory/darryl-davis).
+
+# News
+
+* Started my PhD with [Dr Dima Damen](http://people.cs.bris.ac.uk/~damen/)!
+* Accepted a place at the [UKRI Centre for Doctoral Training in Interactive Artificial Intelligence at The University of Bristol](http://www.bristol.ac.uk/study/postgraduate/2020/doctoral/phd-interactive-artificial-intelligence/)
