@@ -86,7 +86,7 @@ author:
   location         : "Bristol"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=-A-b0hQAAAAJ&hl=en"
   email            :  "daniel.whettam@bristol.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
