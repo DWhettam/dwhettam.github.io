@@ -19,4 +19,4 @@ Previously I was at The University of Edinburgh where I completed my MSc in Data
 
 
 # Interests
-I love learning new stuff. I'm actively doing powerlifiting, running, brazillian jiu jitsu (pandemic permitting) and skateboarding. I'm also interested in juggling, basketball, and 3d puzzles (think Rubik's cubes), although these are on the backburner for now. Hit me up if we have any shared interests, I'm always looking to learn new skills. 
+I love learning new stuff. At the moment I spend my spare time doing powerlifiting, running, brazillian jiu jitsu (pandemic permitting) and skateboarding. I'm also interested in juggling, basketball, and 3d puzzles (think Rubik's cubes), although these are on the backburner for now. Hit me up if we have any shared interests, I'm always looking to learn new skills. 
