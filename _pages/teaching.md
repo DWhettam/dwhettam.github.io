@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+### Supervisory Roles
+Co-supervisor for MSc student, Jacob Chalk
+
 ### Teaching Assistant - The University of Bristol (2020-present)
 Assisting students with labs and doing lab prep for the following modules:
 * [Applied Deep Learning](https://comsm0045-applied-deep-learning.github.io/)
