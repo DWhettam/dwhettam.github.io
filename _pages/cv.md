@@ -13,12 +13,13 @@ Full CV available [here](../files/Curriculum_Vitae.pdf)
 
 Education
 ======
-* Ph.D in Interactive Artificial Intelligence, The University of Bristol, Present
+* Ph.D in Interactive Artificial Intelligence, The University of Bristol, Finishing April 2024
 * MSc. in Data Science, The University of Edinburgh, 2019
 * BSc. in Computer Science, The Univeristy of Hull, 2018
 
 ### Research Experience
 -------
+* Multiple PhD projects covering audio classification, self-supervision, and repetition counting
 * CDT Summer Project: ’The Blind Camera: Perception of Object Interaction Events from Audio Sensors’
   * Supervisors: Dima Damen, Vangelis Kazakos
   * I researched how to perform egocentric action recognition entirely from the audio stream, and applied state-of-the-art audio classification techniques to the ego-centric setting. 
@@ -31,10 +32,17 @@ Education
 
 Work experience
 ======
+* Summer 2023 AI Research Engineer - Imagination Technologies
+* Summer 2022 Visiting Researcher - Columbia University
 * Summer 2018: Research Assistant
   * STFC Hartree Centre
   * Supervisor: Andrew Gargett
   * I researched applications of transfer learning for deep end-to-end speech recognition systems for use in assisted living environments. I used transfer learning to train RNN’s to recognise regional UK dialects. This work was accepted as an abstract and presented at the Interspeech 2019 workshop on Pluricentric Languages for Speech Technology
+    
+Technical Skills
+======
+  * Python, PyTorch, OpenCV, NumPy, TorchVision, C++, C#, Pandas, Linux, and more
+
   
 Publications
 ======
