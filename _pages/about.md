@@ -17,7 +17,9 @@ I love learning new stuff. My main interests outside of academia are self-hostin
 
 
 # News
-* Looking to finish my PhD in April 2024 - If you're hiring, I'd love to chat.
+* Looking to finish my PhD in April 2024 - If you're hiring, I'd love to chat
+* I completed a summer placement at Imagination Technologies, applying NeRF models to low-resource environments
+* I completed a summer placement at Columbia Univeristy with Carl Vondrik
 * Started my PhD with [Dr Dima Damen](http://people.cs.bris.ac.uk/~damen/)!
 * Accepted a place at the [UKRI Centre for Doctoral Training in Interactive Artificial Intelligence at The University of Bristol](http://www.bristol.ac.uk/study/postgraduate/2020/doctoral/phd-interactive-artificial-intelligence/)
 
