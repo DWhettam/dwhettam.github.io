@@ -8,6 +8,14 @@ author_profile: true
 {% include base_path %}
 
 ## Portfolio
+- Counting Temporal Repetitions
+  - A fully self-supervised approach to repetition counting using no ground truth data, to estimate the labels of repetitive video datasets. (code currently unavailable)
+- Contrasting Temporal Neighbours
+  - A project using contrastive learning to improve action recognition performance on untrimmed videos. By contrasting temporal neighbours, we can improve model performance, where similar neighbours are often misclassified for one-another. (code currently unavailable)
+- [The Blind Camera](https://github.com/DWhettam/BlindCamera)
+  - A research project investigating the utility of audio as a modality for egocentric action recognition. Incorporated multiple, (at the time) state of the art CNN approaches to audio classification, applying them to the novel scenario of egocentric action recognition. At the time of this project, there was no prior work performing egocentric audio-only action recognition
+- P.I.E.S: Passive Information Extraction System
+  - A collaborative project for the insurance company, LV. We developed a question answering system that transcribed live speech data and queried it with a fine-tuned language model to automate the collection of data, allowing the phone operator to focus on communicating with the person on the phone, instead of noting down their details. The project included speech-to-text, fine-tuning LLMs, online learning, allowing the model to improve over time, and a javascript front-end. This project has been adapted for internal use at LV.
 - [Fisher Distillation](https://github.com/DWhettam/FisherDistillation)
   - My MSc dissertation project. An approach to scaling up Differentiable Architeure Search models for network distillation using Fisher information as a sensitivity metric. DARTS models are expanded using Fisher information to determine which cell to grow, and the highest scoring cells are expanded by reducing the number of grouped convolutions in that cell.
 - [Exploring CNNs](https://github.com/DWhettam/Exploring_Convolutional_Networks)
